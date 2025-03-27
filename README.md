@@ -28,7 +28,7 @@ Tokenizes text and encodes labels.
 
 Applies FastText for word embeddings.
 
-TDA Feature Extraction:
+### TDA Feature Extraction:
 
 Constructs Rips Complex.
 
